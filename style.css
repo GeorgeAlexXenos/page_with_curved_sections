@@ -310,7 +310,7 @@ footer h1 {
   font-size: 0.8rem;
   color: var(--lightRed);
   margin: 0.5em 0;
-  bottom: 22px;
+  bottom: 36px;
   position: absolute;
 }
 #error_msg.show {
